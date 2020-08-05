@@ -62,6 +62,14 @@ git config --global https.proxy https://127.0.0.1:1080
 
 <https://github.com/AimerNeige/alacritty>
 
+### st
+
+<https://github.com/AimerNeige/st>
+
+### cool-retro-term
+
+pass
+
 ## Editor
 
 ### neovim
@@ -73,6 +81,12 @@ git config --global https.proxy https://127.0.0.1:1080
 <https://github.com/AimerNeige/vim>
 
 ### vscode
+
+## EFI
+
+### refind
+
+### refind-theme
 
 ## Daily Software
 
@@ -93,7 +107,6 @@ git config --global https.proxy https://127.0.0.1:1080
 | mpv                  |             |                                                  |
 | ranger               |             |                                                  |
 | calibre              |             |                                                  |
-| cool-retro-term      |             |                                                  |
 | GHex                 |             |                                                  |
 | GIMP                 |             |                                                  |
 | KDEN Live            |             |                                                  |
@@ -103,5 +116,8 @@ git config --global https.proxy https://127.0.0.1:1080
 | light                |             |                                                  |
 | SimpleScreenRecorder |             |                                                  |
 | Qt                   |             |                                                  |
+| compton              |             |                                                  |
+| udiskie              |             |                                                  |
+| i3lock-flancy        |             |                                                  |
 
 
