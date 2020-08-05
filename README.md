@@ -119,5 +119,6 @@ pass
 | compton              |             |                                                  |
 | udiskie              |             |                                                  |
 | i3lock-flancy        |             |                                                  |
+| etcher               |             |                                                  |
 
 
