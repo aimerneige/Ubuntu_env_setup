@@ -104,35 +104,37 @@ pass
 | Chrome               | Browser     | https://www.google.com/chrome/                            |
 | VirtualBox           | VM          | https://www.virtualbox.org/wiki/Linux_Downloads           |
 | Code Insiders        | Code        | sudo snap install code --classic                          |
-| VYM                  |             | sudo snap install --classic code                          |
-| variety              |             | sudo snap install --classic code-insiders                 |
+| VYM                  | Code        | sudo snap install --classic code                          |
+| variety              | Wallpaper   | sudo snap install --classic code-insiders                 |
 | Atom                 |             |                                                           |
 | Sublime Text         |             |                                                           |
 | typora               |             |                                                           |
 | telegram             |             |                                                           |
 | teamviewer           |             |                                                           |
-| sm player            |             |                                                           |
-| vlc                  |             |                                                           |
-| mpv                  |             |                                                           |
-| ranger               |             |                                                           |
-| calibre              |             |                                                           |
-| GHex                 |             |                                                           |
-| GIMP                 |             |                                                           |
-| KDEN Live            |             |                                                           |
-| Htop                 |             |                                                           |
-| qbittorrent          |             |                                                           |
-| Okular               | PDF         |                                                           |
+| sm player            |             | sudo apt install smplayer                                 |
+| vlc                  |             | sudo apt install vlc                                      |
+| mpv                  |             | sudo apt install mpv                                      |
+| ranger               |             | sudo apt install ranger                                   |
+| calibre              |             | sudo apt install ranger                                   |
+| GHex                 |             | sudo apt install ghex                                     |
+| GIMP                 |             | sudo apt install gimp                                     |
+| KDEN Live            |             | sudo apt install kdenlive                                 |
+| Htop                 |             | sudo apt install htop                                     |
+| qbittorrent          |             | sudo apt install qbittorrent                              |
+| Okular               | PDF         | sudo apt install okular                                   |
 | light                |             |                                                           |
-| SimpleScreenRecorder |             |                                                           |
+| SimpleScreenRecorder |             | sudo apt install simplescreenrecorder                     |
 | Qt                   |             |                                                           |
-| compton              |             |                                                           |
-| udiskie              |             |                                                           |
+| compton              |             | sudo apt install compton                                  |
+| udiskie              |             | sudo apt install udiskie                                  |
 | i3lock-flancy        |             |                                                           |
 | etcher               |             |                                                           |
-| libreoffice          |             |                                                           |
-| lazygit              |             |                                                           |
-| neofetch             |             |                                                           |
-| tree                 |             |                                                           |
+| libreoffice          |             | sudo apt install libreoffice                              |
+| lazygit              | git         | sudo add-apt-repository ppa:lazygit-team/release          |
+|                      |             | sudo apt-get update                                       |
+|                      |             | sudo apt install lazygit                                  |
+| neofetch             | systeminfo  | sudo apt install neofetch                                 |
+| tree                 |             | sudo apt install tree                                     |
 | idea                 |             | sudo snap install intellij-idea-ultimate --classic --edge |
 | cargo                |             | sudo apt install cargo                                    |
 | feh                  |             |                                                           |
