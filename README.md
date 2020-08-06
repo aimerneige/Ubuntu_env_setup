@@ -34,6 +34,10 @@ git config --global user.email aimer.neige.soft@gmail.com
 # proxy
 git config --global http.proxy http://127.0.0.1:1080
 git config --global https.proxy https://127.0.0.1:1080
+
+# use this if doesn't work
+git config --global http.proxy socks5://127.0.0.1:1080
+git config --global https.proxy socks5://127.0.0.1:1080
 ```
 
 ## DE
@@ -59,6 +63,11 @@ git config --global https.proxy https://127.0.0.1:1080
 ## Terminal
 
 ### alacritty
+
+```bash
+sudo add-apt-repository ppa:mmstick76/alacritty
+sudo apt install alacritty
+```
 
 <https://github.com/AimerNeige/alacritty>
 
@@ -90,37 +99,40 @@ pass
 
 ## Daily Software
 
-| Software             | Description | Download                                         |
-| -------------------- | ----------- | ------------------------------------------------ |
-| Chrome               | Browser     | https://www.google.com/chrome/                   |
-| VirtualBox           | VM          | https://www.virtualbox.org/wiki/Linux_Downloads  |
-| Code Insiders        | Code        | sudo apt-get install visual-studio-code-insiders |
-| VYM                  |             |                                                  |
-| variety              |             |                                                  |
-| Atom                 |             |                                                  |
-| Sublime Text         |             |                                                  |
-| typora               |             |                                                  |
-| telegram             |             |                                                  |
-| teamviewer           |             |                                                  |
-| sm player            |             |                                                  |
-| vlc                  |             |                                                  |
-| mpv                  |             |                                                  |
-| ranger               |             |                                                  |
-| calibre              |             |                                                  |
-| GHex                 |             |                                                  |
-| GIMP                 |             |                                                  |
-| KDEN Live            |             |                                                  |
-| Htop                 |             |                                                  |
-| qbittorrent          |             |                                                  |
-| Okular               | PDF         |                                                  |
-| light                |             |                                                  |
-| SimpleScreenRecorder |             |                                                  |
-| Qt                   |             |                                                  |
-| compton              |             |                                                  |
-| udiskie              |             |                                                  |
-| i3lock-flancy        |             |                                                  |
-| etcher               |             |                                                  |
-| libreoffice          |             |                                                  |
-| lazygit              |             |                                                  |
-| neofetch             |             |                                                  |
-| tree                 |             |                                                  |
+| Software             | Description | Download                                                  |
+| -------------------- | ----------- | --------------------------------------------------------- |
+| Chrome               | Browser     | https://www.google.com/chrome/                            |
+| VirtualBox           | VM          | https://www.virtualbox.org/wiki/Linux_Downloads           |
+| Code Insiders        | Code        | sudo snap install code --classic                          |
+| VYM                  |             | sudo snap install --classic code                          |
+| variety              |             | sudo snap install --classic code-insiders                 |
+| Atom                 |             |                                                           |
+| Sublime Text         |             |                                                           |
+| typora               |             |                                                           |
+| telegram             |             |                                                           |
+| teamviewer           |             |                                                           |
+| sm player            |             |                                                           |
+| vlc                  |             |                                                           |
+| mpv                  |             |                                                           |
+| ranger               |             |                                                           |
+| calibre              |             |                                                           |
+| GHex                 |             |                                                           |
+| GIMP                 |             |                                                           |
+| KDEN Live            |             |                                                           |
+| Htop                 |             |                                                           |
+| qbittorrent          |             |                                                           |
+| Okular               | PDF         |                                                           |
+| light                |             |                                                           |
+| SimpleScreenRecorder |             |                                                           |
+| Qt                   |             |                                                           |
+| compton              |             |                                                           |
+| udiskie              |             |                                                           |
+| i3lock-flancy        |             |                                                           |
+| etcher               |             |                                                           |
+| libreoffice          |             |                                                           |
+| lazygit              |             |                                                           |
+| neofetch             |             |                                                           |
+| tree                 |             |                                                           |
+| idea                 |             | sudo snap install intellij-idea-ultimate --classic --edge |
+| cargo                |             | sudo apt install cargo                                    |
+| feh                  |             |                                                           |
