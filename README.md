@@ -120,5 +120,7 @@ pass
 | udiskie              |             |                                                  |
 | i3lock-flancy        |             |                                                  |
 | etcher               |             |                                                  |
-
-
+| libreoffice          |             |                                                  |
+| lazygit              |             |                                                  |
+| neofetch             |             |                                                  |
+| tree                 |             |                                                  |
