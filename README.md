@@ -91,43 +91,44 @@ pass
 
 ## Daily Software
 
-| Software             | Description       | Download                                                  |
-| -------------------- | ----------------- | --------------------------------------------------------- |
-| Chrome               | Browser           | https://www.google.com/chrome/                            |
-| VirtualBox           | VM                | https://www.virtualbox.org/wiki/Linux_Downloads           |
-| Code Insiders        | Code              | sudo snap install code --classic                          |
-| VYM                  | Code              | sudo snap install --classic code                          |
-| variety              | Wallpaper         | sudo snap install --classic code-insiders                 |
-| Atom                 |                   |                                                           |
-| Sublime Text         |                   |                                                           |
-| typora               |                   |                                                           |
-| telegram             | chat              | sudo apt install telegram-desktop                         |
-| teamviewer           |                   |                                                           |
-| sm player            | video             | sudo apt install smplayer                                 |
-| vlc                  | video             | sudo apt install vlc                                      |
-| mpv                  | video             | sudo apt install mpv                                      |
-| ranger               | file manager      | sudo apt install ranger                                   |
-| calibre              | eBoot manager     | sudo apt install ranger                                   |
-| GHex                 | hex reader        | sudo apt install ghex                                     |
-| GIMP                 | picture make      | sudo apt install gimp                                     |
-| KDEN Live            | video make        | sudo apt install kdenlive                                 |
-| Htop                 |                   | sudo apt install htop                                     |
-| qbittorrent          | torrent           | sudo apt install qbittorrent                              |
-| Okular               | PDF reader        | sudo apt install okular                                   |
-| light                | screenlight       |                                                           |
-| SimpleScreenRecorder | record screen     | sudo apt install simplescreenrecorder                     |
-| Qt                   |                   |                                                           |
-| compton              | window compositor | sudo apt install compton                                  |
-| udiskie              | auto mount disk   | sudo apt install udiskie                                  |
-| i3lock-flancy        | nice look i3-lock |                                                           |
-| etcher               | make live-CD      |                                                           |
-| libreoffice          | office soft       | sudo apt install libreoffice                              |
-| lazygit              | git               | sudo add-apt-repository ppa:lazygit-team/release          |
-|                      |                   | sudo apt-get update                                       |
-|                      |                   | sudo apt install lazygit                                  |
-| neofetch             | systeminfo        | sudo apt install neofetch                                 |
-| tree                 | file tree         | sudo apt install tree                                     |
-| idea                 |                   | sudo snap install intellij-idea-ultimate --classic --edge |
-| cargo                |                   | sudo apt install cargo                                    |
-| feh                  | wallpaper change  | sudo apt install feh                                      |
-| figlet               | ascii picture     | sudo apt install figlet                                   |
+| Software             | Description       | Download                                                    |
+| -------------------- | ----------------- | ----------------------------------------------------------- |
+| Chrome               | Browser           | https://www.google.com/chrome/                              |
+| VirtualBox           | VM                | https://www.virtualbox.org/wiki/Linux_Downloads             |
+| Code Insiders        | Code              | `sudo snap install code --classic`                          |
+| VYM                  | Code              | `sudo snap install code --classic`                          |
+| variety              | Wallpaper         | `sudo snap install code-insiders --classic`                 |
+| Atom                 |                   | `sudo snap install atom --classic`                          |
+| Sublime Text         | Code editor       | `sudo snap install sublime --classic`                       |
+| typora               |                   |                                                             |
+| telegram             | chat              | `sudo apt install telegram-desktop`                         |
+| teamviewer           |                   |                                                             |
+| sm player            | video             | `sudo apt install smplayer`                                 |
+| vlc                  | video             | `sudo apt install vlc`                                      |
+| mpv                  | video             | `sudo apt install mpv`                                      |
+| ranger               | file manager      | `sudo apt install ranger`                                   |
+| calibre              | eBoot manager     | `sudo apt install calibre`                                  |
+| GHex                 | hex reader        | `sudo apt install ghex`                                     |
+| GIMP                 | picture make      | `sudo apt install gimp`                                     |
+| KDEN Live            | video make        | `sudo apt install kdenlive`                                 |
+| Htop                 |                   | `sudo apt install htop`                                     |
+| qbittorrent          | torrent           | `sudo apt install qbittorrent`                              |
+| Okular               | PDF reader        | `sudo apt install okular`                                   |
+| light                | screenlight       |                                                             |
+| SimpleScreenRecorder | record screen     | `sudo apt install simplescreenrecorder`                     |
+| Qt                   |                   |                                                             |
+| compton              | window compositor | `sudo apt install compton`                                  |
+| udiskie              | auto mount disk   | `sudo apt install udiskie`                                  |
+| i3lock-flancy        | nice look i3-lock |                                                             |
+| etcher               | make live-CD      |                                                             |
+| libreoffice          | office soft       | `sudo apt install libreoffice`                              |
+| lazygit              | git               | `sudo add-apt-repository ppa:lazygit-team/release`          |
+|                      |                   | `sudo apt-get update`                                       |
+|                      |                   | `sudo apt install lazygit`                                  |
+| neofetch             | systeminfo        | `sudo apt install neofetch`                                 |
+| tree                 | file tree         | `sudo apt install tree`                                     |
+| idea                 |                   | `sudo snap install intellij-idea-ultimate --classic --edge` |
+| cargo                |                   | `sudo apt install cargo`                                    |
+| feh                  | wallpaper change  | `sudo apt install feh`                                      |
+| figlet               | ascii picture     | `sudo apt install figlet`                                   |
+
