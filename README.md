@@ -93,8 +93,9 @@ pass
 
 | Software             | Description       | Download                                                    |
 | -------------------- | ----------------- | ----------------------------------------------------------- |
-| Chrome               | Browser           | https://www.google.com/chrome/                              |
-| VirtualBox           | VM                | https://www.virtualbox.org/wiki/Linux_Downloads             |
+| Chrome               | Browser           | <https://www.google.com/chrome/>                            |
+| VirtualBox           | VM                | <https://www.virtualbox.org/wiki/Linux_Downloads>           |
+| sdcv                 | dictionary        |                                                             |
 | Code Insiders        | Code              | `sudo snap install code --classic`                          |
 | VYM                  | Code              | `sudo snap install code --classic`                          |
 | variety              | Wallpaper         | `sudo snap install code-insiders --classic`                 |
@@ -131,4 +132,3 @@ pass
 | cargo                |                   | `sudo apt install cargo`                                    |
 | feh                  | wallpaper change  | `sudo apt install feh`                                      |
 | figlet               | ascii picture     | `sudo apt install figlet`                                   |
-
