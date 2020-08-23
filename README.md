@@ -40,6 +40,16 @@ git config --global http.proxy socks5://127.0.0.1:1080
 git config --global https.proxy socks5://127.0.0.1:1080
 ```
 
+`~/.ssh/config`
+
+```
+Host github.com
+HostName github.com
+User git
+Port 22
+ProxyCommand /usr/bin/ncat --proxy 127.0.0.1:1080 --proxy-type socks5 %h %p
+```
+
 ## DE
 
 ### i3
