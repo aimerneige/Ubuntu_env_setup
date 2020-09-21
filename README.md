@@ -106,12 +106,14 @@ pass
 | Chrome               | Browser           | <https://www.google.com/chrome/>                             |
 | VirtualBox           | VM                | <https://www.virtualbox.org/wiki/Linux_Downloads>            |
 | sdcv                 | dictionary        |                                                              |
-| Code Insiders        | Code              | `sudo snap install code --classic`                           |
-| VYM                  | Code              | `sudo snap install code --classic`                           |
-| variety              | Wallpaper         | `sudo snap install code-insiders --classic`                  |
+| Code                 | Code              | `sudo snap install code --classic`                           |
+| Code Insiders        | Code              | `sudo snap install code-insiders --classic`                  |
+| VYM                  | Mind Map          |                                                              |
+| feh                  | Wallpaper         | `sudo apt install feh`                                       |
+| variety              | Wallpaper         | `sudo apt install variety`                                   |
 | Atom                 |                   | `sudo snap install atom --classic`                           |
 | Sublime Text         | Code editor       | `sudo snap install sublime --classic`                        |
-| typora               |                   |                                                              |
+| typora               |                   | `sudo snap install typora`                                   |
 | telegram             | chat              | `sudo apt install telegram-desktop`                          |
 | teamviewer           |                   |                                                              |
 | sm player            | video             | `sudo apt install smplayer`                                  |
@@ -125,9 +127,8 @@ pass
 | Htop                 |                   | `sudo apt install htop`                                      |
 | qbittorrent          | torrent           | `sudo apt install qbittorrent`                               |
 | Okular               | PDF reader        | `sudo apt install okular`                                    |
-| light                | screenlight       |                                                              |
+| light                | screenlight       | `sudo apt install light`                                     |
 | SimpleScreenRecorder | record screen     | `sudo apt install simplescreenrecorder`                      |
-| Qt                   |                   |                                                              |
 | compton              | window compositor | `sudo apt install compton`                                   |
 | udiskie              | auto mount disk   | `sudo apt install udiskie`                                   |
 | i3lock-flancy        | nice look i3-lock |                                                              |
@@ -138,9 +139,9 @@ pass
 |                      |                   | `sudo apt install lazygit`                                   |
 | neofetch             | systeminfo        | `sudo apt install neofetch`                                  |
 | tree                 | file tree         | `sudo apt install tree`                                      |
-| idea                 |                   | `sudo snap install intellij-idea-ultimate --classic --edge`  |
+| Idea                 | java              | `sudo snap install intellij-idea-ultimate --classic`         |
+| PyCharm              | python            | `sudo snap install pycharm-professional --classic`           |
 | cargo                |                   | `sudo apt install cargo`                                     |
-| feh                  | wallpaper change  | `sudo apt install feh`                                       |
 | figlet               | ascii picture     | `sudo apt install figlet`                                    |
 | qt                   |                   | `sudo apt-get install qt5-default qtcreator`                 |
 |                      |                   | `sudo apt-get install build-essential`                       |
