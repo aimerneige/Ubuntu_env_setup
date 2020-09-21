@@ -97,6 +97,10 @@ pass
 
 ### refind
 
+```bash
+sudo apt install refind
+```
+
 ### refind-theme
 
 ## Daily Software
@@ -141,6 +145,7 @@ pass
 | tree                 | file tree         | `sudo apt install tree`                                      |
 | Idea                 | java              | `sudo snap install intellij-idea-ultimate --classic`         |
 | PyCharm              | python            | `sudo snap install pycharm-professional --classic`           |
+| CLion                | c / c++           | `sudo snap install clion --classic`                          |
 | cargo                |                   | `sudo apt install cargo`                                     |
 | figlet               | ascii picture     | `sudo apt install figlet`                                    |
 | qt                   |                   | `sudo apt-get install qt5-default qtcreator`                 |
