@@ -153,3 +153,6 @@ sudo apt install refind
 |                      |                   | `sudo apt-get install qtdeclarative5-dev libgl1-mesa-dev`    |
 |                      |                   | `sudo apt-get install qt5-doc qt5-doc-html qtbase5-doc-html` |
 |                      |                   | `sudo apt-get install qtbase5-examples`                      |
+| uget                 |                   |                                                              |
+| feeluown             |                   |                                                              |
+| axel                 |                   |                                                              |
