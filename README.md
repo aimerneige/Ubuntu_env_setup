@@ -156,3 +156,6 @@ sudo apt install refind
 | uget                 |                   |                                                              |
 | feeluown             |                   |                                                              |
 | axel                 |                   |                                                              |
+| go-for-it            |                   | sudo add-apt-repository ppa:go-for-it-team/go-for-it-daily   |
+|                      |                   | sudo apt-get update                                          |
+|                      |                   | sudo apt-get install go-for-it                               |
